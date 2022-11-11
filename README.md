@@ -10,6 +10,12 @@ yarn dev
 yarn build
 ```
 
+## 本地查看效果请切换到 `example` 分支
+```
+git branch -a
+git checkout remotes/origin/example
+```
+
 ## 目的
 加快浏览和下载 github 资源，解决 github 访问慢以及一些文件不能在线访问呢的问题
 
