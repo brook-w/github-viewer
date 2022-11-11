@@ -1,0 +1,1684 @@
+[
+    {
+        "name": "Go 语言参考手册.md",
+        "path": "Go 语言参考手册.md",
+        "sha": "1afed797fac5c54fdf9d5d66ce5275a5314c399c",
+        "size": 128480,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.md?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.md",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/1afed797fac5c54fdf9d5d66ce5275a5314c399c",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.md?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/1afed797fac5c54fdf9d5d66ce5275a5314c399c",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.md"
+        }
+    },
+    {
+        "name": "Go 语言参考手册.pdf",
+        "path": "Go 语言参考手册.pdf",
+        "sha": "e014346cb8ae38df46e9d07fa1fca49a4aa1f602",
+        "size": 1060294,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.pdf?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.pdf",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/e014346cb8ae38df46e9d07fa1fca49a4aa1f602",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.pdf",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.pdf?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/e014346cb8ae38df46e9d07fa1fca49a4aa1f602",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.pdf"
+        }
+    },
+    {
+        "name": "Golang PPT",
+        "path": "Golang PPT",
+        "sha": "1a7a8792a9afa9487438aef4862e1ab12b626ecf",
+        "size": 0,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/Golang%20PPT",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/1a7a8792a9afa9487438aef4862e1ab12b626ecf",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/1a7a8792a9afa9487438aef4862e1ab12b626ecf",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/Golang%20PPT"
+        },
+        "children": [
+            {
+                "name": "1.txt",
+                "path": "Golang PPT/1.txt",
+                "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+                "size": 1,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/1.txt?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/1.txt",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/1.txt",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/1.txt?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/1.txt"
+                }
+            },
+            {
+                "name": "Go in TiDB.pdf",
+                "path": "Golang PPT/Go in TiDB.pdf",
+                "sha": "be1125cf235d7b1f851cb82b180ab9bdb8ca5634",
+                "size": 957918,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%20in%20TiDB.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%20in%20TiDB.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/be1125cf235d7b1f851cb82b180ab9bdb8ca5634",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Go%20in%20TiDB.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%20in%20TiDB.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/be1125cf235d7b1f851cb82b180ab9bdb8ca5634",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%20in%20TiDB.pdf"
+                }
+            },
+            {
+                "name": "Go 如何助力企业进行微服务转型.pdf",
+                "path": "Golang PPT/Go 如何助力企业进行微服务转型.pdf",
+                "sha": "740aadce0a07d0684acd2f2d414620215d48e1d0",
+                "size": 4730446,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%20%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E4%BC%81%E4%B8%9A%E8%BF%9B%E8%A1%8C%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%BD%AC%E5%9E%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%20%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E4%BC%81%E4%B8%9A%E8%BF%9B%E8%A1%8C%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%BD%AC%E5%9E%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/740aadce0a07d0684acd2f2d414620215d48e1d0",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Go%20%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E4%BC%81%E4%B8%9A%E8%BF%9B%E8%A1%8C%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%BD%AC%E5%9E%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%20%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E4%BC%81%E4%B8%9A%E8%BF%9B%E8%A1%8C%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%BD%AC%E5%9E%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/740aadce0a07d0684acd2f2d414620215d48e1d0",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%20%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E4%BC%81%E4%B8%9A%E8%BF%9B%E8%A1%8C%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%BD%AC%E5%9E%8B.pdf"
+                }
+            },
+            {
+                "name": "Golang 内存管理探微&mdash&mdash，如何高效使用 Golang 内存以及腾讯云实战-杨晖.pdf",
+                "path": "Golang PPT/Golang 内存管理探微&mdash&mdash，如何高效使用 Golang 内存以及腾讯云实战-杨晖.pdf",
+                "sha": "48c9c503001410d61eaae7652163784ab7e582b3",
+                "size": 6021227,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Golang%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%8E%A2%E5%BE%AE&mdash&mdash%EF%BC%8C%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8%20Golang%20%E5%86%85%E5%AD%98%E4%BB%A5%E5%8F%8A%E8%85%BE%E8%AE%AF%E4%BA%91%E5%AE%9E%E6%88%98-%E6%9D%A8%E6%99%96.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%8E%A2%E5%BE%AE&mdash&mdash%EF%BC%8C%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8%20Golang%20%E5%86%85%E5%AD%98%E4%BB%A5%E5%8F%8A%E8%85%BE%E8%AE%AF%E4%BA%91%E5%AE%9E%E6%88%98-%E6%9D%A8%E6%99%96.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/48c9c503001410d61eaae7652163784ab7e582b3",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Golang%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%8E%A2%E5%BE%AE%26mdash%26mdash%EF%BC%8C%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8%20Golang%20%E5%86%85%E5%AD%98%E4%BB%A5%E5%8F%8A%E8%85%BE%E8%AE%AF%E4%BA%91%E5%AE%9E%E6%88%98-%E6%9D%A8%E6%99%96.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Golang%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%8E%A2%E5%BE%AE&mdash&mdash%EF%BC%8C%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8%20Golang%20%E5%86%85%E5%AD%98%E4%BB%A5%E5%8F%8A%E8%85%BE%E8%AE%AF%E4%BA%91%E5%AE%9E%E6%88%98-%E6%9D%A8%E6%99%96.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/48c9c503001410d61eaae7652163784ab7e582b3",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%8E%A2%E5%BE%AE&mdash&mdash%EF%BC%8C%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8%20Golang%20%E5%86%85%E5%AD%98%E4%BB%A5%E5%8F%8A%E8%85%BE%E8%AE%AF%E4%BA%91%E5%AE%9E%E6%88%98-%E6%9D%A8%E6%99%96.pdf"
+                }
+            },
+            {
+                "name": "Golang主动式内存缓存的优化探索之路.pdf",
+                "path": "Golang PPT/Golang主动式内存缓存的优化探索之路.pdf",
+                "sha": "03164877f7640f99b67998b8d53d38693c346174",
+                "size": 6356002,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Golang%E4%B8%BB%E5%8A%A8%E5%BC%8F%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98%E7%9A%84%E4%BC%98%E5%8C%96%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E4%B8%BB%E5%8A%A8%E5%BC%8F%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98%E7%9A%84%E4%BC%98%E5%8C%96%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/03164877f7640f99b67998b8d53d38693c346174",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Golang%E4%B8%BB%E5%8A%A8%E5%BC%8F%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98%E7%9A%84%E4%BC%98%E5%8C%96%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Golang%E4%B8%BB%E5%8A%A8%E5%BC%8F%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98%E7%9A%84%E4%BC%98%E5%8C%96%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/03164877f7640f99b67998b8d53d38693c346174",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E4%B8%BB%E5%8A%A8%E5%BC%8F%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98%E7%9A%84%E4%BC%98%E5%8C%96%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF.pdf"
+                }
+            },
+            {
+                "name": "Golang在百万亿搜索引擎中的应用.pdf",
+                "path": "Golang PPT/Golang在百万亿搜索引擎中的应用.pdf",
+                "sha": "773c1b01fd57a099c4c3d4b022dad2b9344eb077",
+                "size": 4947267,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Golang%E5%9C%A8%E7%99%BE%E4%B8%87%E4%BA%BF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E5%9C%A8%E7%99%BE%E4%B8%87%E4%BA%BF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/773c1b01fd57a099c4c3d4b022dad2b9344eb077",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Golang%E5%9C%A8%E7%99%BE%E4%B8%87%E4%BA%BF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Golang%E5%9C%A8%E7%99%BE%E4%B8%87%E4%BA%BF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/773c1b01fd57a099c4c3d4b022dad2b9344eb077",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E5%9C%A8%E7%99%BE%E4%B8%87%E4%BA%BF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf"
+                }
+            },
+            {
+                "name": "Golang在阿里巴巴调度系统Sigma中的实践.pdf",
+                "path": "Golang PPT/Golang在阿里巴巴调度系统Sigma中的实践.pdf",
+                "sha": "099c63d0783d374dc0cef3dac92a27f5e282d795",
+                "size": 1910335,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Golang%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9FSigma%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9FSigma%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/099c63d0783d374dc0cef3dac92a27f5e282d795",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Golang%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9FSigma%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Golang%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9FSigma%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/099c63d0783d374dc0cef3dac92a27f5e282d795",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9FSigma%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf"
+                }
+            },
+            {
+                "name": "Go在大数据开发中的经验总结.pdf",
+                "path": "Golang PPT/Go在大数据开发中的经验总结.pdf",
+                "sha": "7f5178a276d398d3dac19561ef8e9313535dc6ae",
+                "size": 6676632,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E5%9C%A8%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/7f5178a276d398d3dac19561ef8e9313535dc6ae",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Go%E5%9C%A8%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E5%9C%A8%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/7f5178a276d398d3dac19561ef8e9313535dc6ae",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93.pdf"
+                }
+            },
+            {
+                "name": "Go在探探后端的工程实践.pdf",
+                "path": "Golang PPT/Go在探探后端的工程实践.pdf",
+                "sha": "52cacf5913447791f6dcbd4b0bb811d93930f6d0",
+                "size": 1297725,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E5%9C%A8%E6%8E%A2%E6%8E%A2%E5%90%8E%E7%AB%AF%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E6%8E%A2%E6%8E%A2%E5%90%8E%E7%AB%AF%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/52cacf5913447791f6dcbd4b0bb811d93930f6d0",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Go%E5%9C%A8%E6%8E%A2%E6%8E%A2%E5%90%8E%E7%AB%AF%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E5%9C%A8%E6%8E%A2%E6%8E%A2%E5%90%8E%E7%AB%AF%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/52cacf5913447791f6dcbd4b0bb811d93930f6d0",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E6%8E%A2%E6%8E%A2%E5%90%8E%E7%AB%AF%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5.pdf"
+                }
+            },
+            {
+                "name": "Go在证券行情系统中的应用.pdf",
+                "path": "Golang PPT/Go在证券行情系统中的应用.pdf",
+                "sha": "87c9c849638bf66ebac8d84bacf0c8dc7d20a308",
+                "size": 2267181,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E5%9C%A8%E8%AF%81%E5%88%B8%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E8%AF%81%E5%88%B8%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/87c9c849638bf66ebac8d84bacf0c8dc7d20a308",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Go%E5%9C%A8%E8%AF%81%E5%88%B8%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E5%9C%A8%E8%AF%81%E5%88%B8%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/87c9c849638bf66ebac8d84bacf0c8dc7d20a308",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E8%AF%81%E5%88%B8%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf"
+                }
+            },
+            {
+                "name": "Go微服务实战.pdf",
+                "path": "Golang PPT/Go微服务实战.pdf",
+                "sha": "53af54e7f64a3bb42d4f6c00e179fd9e1a5ceef5",
+                "size": 3398724,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E6%88%98.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E6%88%98.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/53af54e7f64a3bb42d4f6c00e179fd9e1a5ceef5",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Go%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E6%88%98.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E6%88%98.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/53af54e7f64a3bb42d4f6c00e179fd9e1a5ceef5",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E6%88%98.pdf"
+                }
+            },
+            {
+                "name": "Go打造亿级实时分布式平台_2.pdf",
+                "path": "Golang PPT/Go打造亿级实时分布式平台_2.pdf",
+                "sha": "0f1d435c8e0c135d25887dcd73e8d9ec4379e47f",
+                "size": 3285035,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E6%89%93%E9%80%A0%E4%BA%BF%E7%BA%A7%E5%AE%9E%E6%97%B6%E5%88%86%E5%B8%83%E5%BC%8F%E5%B9%B3%E5%8F%B0_2.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E6%89%93%E9%80%A0%E4%BA%BF%E7%BA%A7%E5%AE%9E%E6%97%B6%E5%88%86%E5%B8%83%E5%BC%8F%E5%B9%B3%E5%8F%B0_2.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/0f1d435c8e0c135d25887dcd73e8d9ec4379e47f",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Go%E6%89%93%E9%80%A0%E4%BA%BF%E7%BA%A7%E5%AE%9E%E6%97%B6%E5%88%86%E5%B8%83%E5%BC%8F%E5%B9%B3%E5%8F%B0_2.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E6%89%93%E9%80%A0%E4%BA%BF%E7%BA%A7%E5%AE%9E%E6%97%B6%E5%88%86%E5%B8%83%E5%BC%8F%E5%B9%B3%E5%8F%B0_2.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/0f1d435c8e0c135d25887dcd73e8d9ec4379e47f",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E6%89%93%E9%80%A0%E4%BA%BF%E7%BA%A7%E5%AE%9E%E6%97%B6%E5%88%86%E5%B8%83%E5%BC%8F%E5%B9%B3%E5%8F%B0_2.pdf"
+                }
+            },
+            {
+                "name": "Go语言在讯联扫码支付系统中的成功实践.pdf",
+                "path": "Golang PPT/Go语言在讯联扫码支付系统中的成功实践.pdf",
+                "sha": "3197e458aa204e39b990ff7b3fbf17512da19084",
+                "size": 3887917,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AE%AF%E8%81%94%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%88%90%E5%8A%9F%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AE%AF%E8%81%94%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%88%90%E5%8A%9F%E5%AE%9E%E8%B7%B5.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/3197e458aa204e39b990ff7b3fbf17512da19084",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AE%AF%E8%81%94%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%88%90%E5%8A%9F%E5%AE%9E%E8%B7%B5.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AE%AF%E8%81%94%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%88%90%E5%8A%9F%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/3197e458aa204e39b990ff7b3fbf17512da19084",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AE%AF%E8%81%94%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%88%90%E5%8A%9F%E5%AE%9E%E8%B7%B5.pdf"
+                }
+            },
+            {
+                "name": "Go语言在证券期货行情系统中的实践.pdf",
+                "path": "Golang PPT/Go语言在证券期货行情系统中的实践.pdf",
+                "sha": "e2a41a2d5c349059bd1b4b2c2426679b8cb41cc5",
+                "size": 2608391,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AF%81%E5%88%B8%E6%9C%9F%E8%B4%A7%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AF%81%E5%88%B8%E6%9C%9F%E8%B4%A7%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/e2a41a2d5c349059bd1b4b2c2426679b8cb41cc5",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AF%81%E5%88%B8%E6%9C%9F%E8%B4%A7%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AF%81%E5%88%B8%E6%9C%9F%E8%B4%A7%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/e2a41a2d5c349059bd1b4b2c2426679b8cb41cc5",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AF%81%E5%88%B8%E6%9C%9F%E8%B4%A7%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf"
+                }
+            },
+            {
+                "name": "Go语言的抢占式调度.pdf",
+                "path": "Golang PPT/Go语言的抢占式调度.pdf",
+                "sha": "32dac0f80411aa58baaef65410210455ddbba8ca",
+                "size": 7785760,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%A2%E5%8D%A0%E5%BC%8F%E8%B0%83%E5%BA%A6.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%A2%E5%8D%A0%E5%BC%8F%E8%B0%83%E5%BA%A6.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/32dac0f80411aa58baaef65410210455ddbba8ca",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%A2%E5%8D%A0%E5%BC%8F%E8%B0%83%E5%BA%A6.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%A2%E5%8D%A0%E5%BC%8F%E8%B0%83%E5%BA%A6.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/32dac0f80411aa58baaef65410210455ddbba8ca",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%A2%E5%8D%A0%E5%BC%8F%E8%B0%83%E5%BA%A6.pdf"
+                }
+            },
+            {
+                "name": "Improving Go Backend Developer Experience in Grab.pdf",
+                "path": "Golang PPT/Improving Go Backend Developer Experience in Grab.pdf",
+                "sha": "cb227319d036cd9d3c5fcbaf1d9665c4ee037025",
+                "size": 8997823,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Improving%20Go%20Backend%20Developer%20Experience%20in%20Grab.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Improving%20Go%20Backend%20Developer%20Experience%20in%20Grab.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/cb227319d036cd9d3c5fcbaf1d9665c4ee037025",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Improving%20Go%20Backend%20Developer%20Experience%20in%20Grab.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Improving%20Go%20Backend%20Developer%20Experience%20in%20Grab.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/cb227319d036cd9d3c5fcbaf1d9665c4ee037025",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Improving%20Go%20Backend%20Developer%20Experience%20in%20Grab.pdf"
+                }
+            },
+            {
+                "name": "Processing XML and Spreadsheet Data in Go.pdf",
+                "path": "Golang PPT/Processing XML and Spreadsheet Data in Go.pdf",
+                "sha": "ec091368647c68923deaf2ec4dd9e0393d1338c9",
+                "size": 1404314,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Processing%20XML%20and%20Spreadsheet%20Data%20in%20Go.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Processing%20XML%20and%20Spreadsheet%20Data%20in%20Go.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ec091368647c68923deaf2ec4dd9e0393d1338c9",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Processing%20XML%20and%20Spreadsheet%20Data%20in%20Go.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Processing%20XML%20and%20Spreadsheet%20Data%20in%20Go.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ec091368647c68923deaf2ec4dd9e0393d1338c9",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Processing%20XML%20and%20Spreadsheet%20Data%20in%20Go.pdf"
+                }
+            },
+            {
+                "name": "The Zen of Go.pdf",
+                "path": "Golang PPT/The Zen of Go.pdf",
+                "sha": "4ff63cf897398d355d0a77c5e931cef9820a08df",
+                "size": 14640028,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/The%20Zen%20of%20Go.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/The%20Zen%20of%20Go.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/4ff63cf897398d355d0a77c5e931cef9820a08df",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/The%20Zen%20of%20Go.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/The%20Zen%20of%20Go.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/4ff63cf897398d355d0a77c5e931cef9820a08df",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/The%20Zen%20of%20Go.pdf"
+                }
+            },
+            {
+                "name": "Tracing in TiDB.pdf",
+                "path": "Golang PPT/Tracing in TiDB.pdf",
+                "sha": "e551a621d718e5b2eda562fc6a3c893df784a336",
+                "size": 3601036,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Tracing%20in%20TiDB.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Tracing%20in%20TiDB.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/e551a621d718e5b2eda562fc6a3c893df784a336",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/Tracing%20in%20TiDB.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/Tracing%20in%20TiDB.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/e551a621d718e5b2eda562fc6a3c893df784a336",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/Tracing%20in%20TiDB.pdf"
+                }
+            },
+            {
+                "name": "goplus-gopher-china.pdf",
+                "path": "Golang PPT/goplus-gopher-china.pdf",
+                "sha": "b79a29ec30c3dcdc5cd8700953a3f39b440a9387",
+                "size": 1912876,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/goplus-gopher-china.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/goplus-gopher-china.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/b79a29ec30c3dcdc5cd8700953a3f39b440a9387",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/goplus-gopher-china.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/goplus-gopher-china.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/b79a29ec30c3dcdc5cd8700953a3f39b440a9387",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/goplus-gopher-china.pdf"
+                }
+            },
+            {
+                "name": "云原生技术在2B交付中的实践.pdf",
+                "path": "Golang PPT/云原生技术在2B交付中的实践.pdf",
+                "sha": "badd4f36cf13119751a535a7554e756e31ba0e2b",
+                "size": 6693568,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E4%BA%91%E5%8E%9F%E7%94%9F%E6%8A%80%E6%9C%AF%E5%9C%A82B%E4%BA%A4%E4%BB%98%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E4%BA%91%E5%8E%9F%E7%94%9F%E6%8A%80%E6%9C%AF%E5%9C%A82B%E4%BA%A4%E4%BB%98%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/badd4f36cf13119751a535a7554e756e31ba0e2b",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E4%BA%91%E5%8E%9F%E7%94%9F%E6%8A%80%E6%9C%AF%E5%9C%A82B%E4%BA%A4%E4%BB%98%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E4%BA%91%E5%8E%9F%E7%94%9F%E6%8A%80%E6%9C%AF%E5%9C%A82B%E4%BA%A4%E4%BB%98%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/badd4f36cf13119751a535a7554e756e31ba0e2b",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E4%BA%91%E5%8E%9F%E7%94%9F%E6%8A%80%E6%9C%AF%E5%9C%A82B%E4%BA%A4%E4%BB%98%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf"
+                }
+            },
+            {
+                "name": "利用夜莺扩展能力打造全方位监控系统.pdf",
+                "path": "Golang PPT/利用夜莺扩展能力打造全方位监控系统.pdf",
+                "sha": "b04328b48fc559289c0ced3b80dbec432c93d0ab",
+                "size": 4034717,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%88%A9%E7%94%A8%E5%A4%9C%E8%8E%BA%E6%89%A9%E5%B1%95%E8%83%BD%E5%8A%9B%E6%89%93%E9%80%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%88%A9%E7%94%A8%E5%A4%9C%E8%8E%BA%E6%89%A9%E5%B1%95%E8%83%BD%E5%8A%9B%E6%89%93%E9%80%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/b04328b48fc559289c0ced3b80dbec432c93d0ab",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E5%88%A9%E7%94%A8%E5%A4%9C%E8%8E%BA%E6%89%A9%E5%B1%95%E8%83%BD%E5%8A%9B%E6%89%93%E9%80%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%88%A9%E7%94%A8%E5%A4%9C%E8%8E%BA%E6%89%A9%E5%B1%95%E8%83%BD%E5%8A%9B%E6%89%93%E9%80%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/b04328b48fc559289c0ced3b80dbec432c93d0ab",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%88%A9%E7%94%A8%E5%A4%9C%E8%8E%BA%E6%89%A9%E5%B1%95%E8%83%BD%E5%8A%9B%E6%89%93%E9%80%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf"
+                }
+            },
+            {
+                "name": "基于 Golang 构建高可扩展的云原生 PaaS 平台.pdf",
+                "path": "Golang PPT/基于 Golang 构建高可扩展的云原生 PaaS 平台.pdf",
+                "sha": "654eeeaa5accec526f627928f021a9ff11f93325",
+                "size": 9015917,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%9F%BA%E4%BA%8E%20Golang%20%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%20PaaS%20%E5%B9%B3%E5%8F%B0.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%9F%BA%E4%BA%8E%20Golang%20%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%20PaaS%20%E5%B9%B3%E5%8F%B0.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/654eeeaa5accec526f627928f021a9ff11f93325",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E5%9F%BA%E4%BA%8E%20Golang%20%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%20PaaS%20%E5%B9%B3%E5%8F%B0.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%9F%BA%E4%BA%8E%20Golang%20%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%20PaaS%20%E5%B9%B3%E5%8F%B0.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/654eeeaa5accec526f627928f021a9ff11f93325",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%9F%BA%E4%BA%8E%20Golang%20%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%20PaaS%20%E5%B9%B3%E5%8F%B0.pdf"
+                }
+            },
+            {
+                "name": "基于Kubernetes的私有云实战.pdf",
+                "path": "Golang PPT/基于Kubernetes的私有云实战.pdf",
+                "sha": "998bd2d977ef7807c890a779c362ba7513395ff9",
+                "size": 11191544,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%9F%BA%E4%BA%8EKubernetes%E7%9A%84%E7%A7%81%E6%9C%89%E4%BA%91%E5%AE%9E%E6%88%98.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%9F%BA%E4%BA%8EKubernetes%E7%9A%84%E7%A7%81%E6%9C%89%E4%BA%91%E5%AE%9E%E6%88%98.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/998bd2d977ef7807c890a779c362ba7513395ff9",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E5%9F%BA%E4%BA%8EKubernetes%E7%9A%84%E7%A7%81%E6%9C%89%E4%BA%91%E5%AE%9E%E6%88%98.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%9F%BA%E4%BA%8EKubernetes%E7%9A%84%E7%A7%81%E6%9C%89%E4%BA%91%E5%AE%9E%E6%88%98.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/998bd2d977ef7807c890a779c362ba7513395ff9",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%9F%BA%E4%BA%8EKubernetes%E7%9A%84%E7%A7%81%E6%9C%89%E4%BA%91%E5%AE%9E%E6%88%98.pdf"
+                }
+            },
+            {
+                "name": "大规模场景下Kubernetes Service负载均衡性能优化.pdf",
+                "path": "Golang PPT/大规模场景下Kubernetes Service负载均衡性能优化.pdf",
+                "sha": "6eefe22910b60db28ee6c1055ac1b3b39301da91",
+                "size": 3555072,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%BA%E6%99%AF%E4%B8%8BKubernetes%20Service%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%BA%E6%99%AF%E4%B8%8BKubernetes%20Service%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/6eefe22910b60db28ee6c1055ac1b3b39301da91",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%BA%E6%99%AF%E4%B8%8BKubernetes%20Service%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%BA%E6%99%AF%E4%B8%8BKubernetes%20Service%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/6eefe22910b60db28ee6c1055ac1b3b39301da91",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%BA%E6%99%AF%E4%B8%8BKubernetes%20Service%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf"
+                }
+            },
+            {
+                "name": "天猫DevOps转型实践.pdf",
+                "path": "Golang PPT/天猫DevOps转型实践.pdf",
+                "sha": "78979ea139c6431b25ec83097fcc74fbce92308f",
+                "size": 8244768,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%A4%A9%E7%8C%ABDevOps%E8%BD%AC%E5%9E%8B%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A4%A9%E7%8C%ABDevOps%E8%BD%AC%E5%9E%8B%E5%AE%9E%E8%B7%B5.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/78979ea139c6431b25ec83097fcc74fbce92308f",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E5%A4%A9%E7%8C%ABDevOps%E8%BD%AC%E5%9E%8B%E5%AE%9E%E8%B7%B5.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%A4%A9%E7%8C%ABDevOps%E8%BD%AC%E5%9E%8B%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/78979ea139c6431b25ec83097fcc74fbce92308f",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A4%A9%E7%8C%ABDevOps%E8%BD%AC%E5%9E%8B%E5%AE%9E%E8%B7%B5.pdf"
+                }
+            },
+            {
+                "name": "如何用Go模拟CPU.pdf",
+                "path": "Golang PPT/如何用Go模拟CPU.pdf",
+                "sha": "a8c70b70db9b2960477de0a4519c7f918ffbf4cd",
+                "size": 7442841,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%A6%82%E4%BD%95%E7%94%A8Go%E6%A8%A1%E6%8B%9FCPU.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A6%82%E4%BD%95%E7%94%A8Go%E6%A8%A1%E6%8B%9FCPU.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/a8c70b70db9b2960477de0a4519c7f918ffbf4cd",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E5%A6%82%E4%BD%95%E7%94%A8Go%E6%A8%A1%E6%8B%9FCPU.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%A6%82%E4%BD%95%E7%94%A8Go%E6%A8%A1%E6%8B%9FCPU.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/a8c70b70db9b2960477de0a4519c7f918ffbf4cd",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A6%82%E4%BD%95%E7%94%A8Go%E6%A8%A1%E6%8B%9FCPU.pdf"
+                }
+            },
+            {
+                "name": "字节跳动在 Go 网络库上的实践.pdf",
+                "path": "Golang PPT/字节跳动在 Go 网络库上的实践.pdf",
+                "sha": "4083cff158d215e7dc76c0bc098c37318e01c634",
+                "size": 3346404,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%20Go%20%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%8A%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%20Go%20%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%8A%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/4083cff158d215e7dc76c0bc098c37318e01c634",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%20Go%20%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%8A%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%20Go%20%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%8A%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/4083cff158d215e7dc76c0bc098c37318e01c634",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%20Go%20%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%8A%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf"
+                }
+            },
+            {
+                "name": "深入Go Module.pdf",
+                "path": "Golang PPT/深入Go Module.pdf",
+                "sha": "1969301c14700cee1983d4773e96796a9d5ab449",
+                "size": 4037714,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E6%B7%B1%E5%85%A5Go%20Module.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E6%B7%B1%E5%85%A5Go%20Module.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/1969301c14700cee1983d4773e96796a9d5ab449",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E6%B7%B1%E5%85%A5Go%20Module.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E6%B7%B1%E5%85%A5Go%20Module.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/1969301c14700cee1983d4773e96796a9d5ab449",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E6%B7%B1%E5%85%A5Go%20Module.pdf"
+                }
+            },
+            {
+                "name": "深入理解BFE.pdf",
+                "path": "Golang PPT/深入理解BFE.pdf",
+                "sha": "443d128f4c6546e1e2da6dda11d5c47b99b5589a",
+                "size": 1868248,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3BFE.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3BFE.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/443d128f4c6546e1e2da6dda11d5c47b99b5589a",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3BFE.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3BFE.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/443d128f4c6546e1e2da6dda11d5c47b99b5589a",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3BFE.pdf"
+                }
+            },
+            {
+                "name": "罗辑思维Go语言微服务改造实践.pdf",
+                "path": "Golang PPT/罗辑思维Go语言微服务改造实践.pdf",
+                "sha": "562dd85947fddfafbf3619992ce0c6f1b420c428",
+                "size": 2435993,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4Go%E8%AF%AD%E8%A8%80%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%94%B9%E9%80%A0%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4Go%E8%AF%AD%E8%A8%80%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%94%B9%E9%80%A0%E5%AE%9E%E8%B7%B5.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/562dd85947fddfafbf3619992ce0c6f1b420c428",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4Go%E8%AF%AD%E8%A8%80%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%94%B9%E9%80%A0%E5%AE%9E%E8%B7%B5.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4Go%E8%AF%AD%E8%A8%80%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%94%B9%E9%80%A0%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/562dd85947fddfafbf3619992ce0c6f1b420c428",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4Go%E8%AF%AD%E8%A8%80%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%94%B9%E9%80%A0%E5%AE%9E%E8%B7%B5.pdf"
+                }
+            },
+            {
+                "name": "谈如何构建易于拆分的单体应用.pdf",
+                "path": "Golang PPT/谈如何构建易于拆分的单体应用.pdf",
+                "sha": "c0f46fb8071dffcab42b58c600562e5b20f0bdab",
+                "size": 13677316,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E8%B0%88%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E6%98%93%E4%BA%8E%E6%8B%86%E5%88%86%E7%9A%84%E5%8D%95%E4%BD%93%E5%BA%94%E7%94%A8.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E8%B0%88%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E6%98%93%E4%BA%8E%E6%8B%86%E5%88%86%E7%9A%84%E5%8D%95%E4%BD%93%E5%BA%94%E7%94%A8.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/c0f46fb8071dffcab42b58c600562e5b20f0bdab",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E8%B0%88%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E6%98%93%E4%BA%8E%E6%8B%86%E5%88%86%E7%9A%84%E5%8D%95%E4%BD%93%E5%BA%94%E7%94%A8.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E8%B0%88%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E6%98%93%E4%BA%8E%E6%8B%86%E5%88%86%E7%9A%84%E5%8D%95%E4%BD%93%E5%BA%94%E7%94%A8.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/c0f46fb8071dffcab42b58c600562e5b20f0bdab",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E8%B0%88%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E6%98%93%E4%BA%8E%E6%8B%86%E5%88%86%E7%9A%84%E5%8D%95%E4%BD%93%E5%BA%94%E7%94%A8.pdf"
+                }
+            },
+            {
+                "name": "跨境电商的Go服务治理实践.pdf",
+                "path": "Golang PPT/跨境电商的Go服务治理实践.pdf",
+                "sha": "1b770c7473e9789108a6e873ccf84435e9b398ee",
+                "size": 3798702,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E7%9A%84Go%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E7%9A%84Go%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E5%AE%9E%E8%B7%B5.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/1b770c7473e9789108a6e873ccf84435e9b398ee",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E7%9A%84Go%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E5%AE%9E%E8%B7%B5.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E7%9A%84Go%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/1b770c7473e9789108a6e873ccf84435e9b398ee",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E7%9A%84Go%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E5%AE%9E%E8%B7%B5.pdf"
+                }
+            },
+            {
+                "name": "阿里巴巴新一代基于 Go 的云原生应用引擎实践.pdf",
+                "path": "Golang PPT/阿里巴巴新一代基于 Go 的云原生应用引擎实践.pdf",
+                "sha": "d762b8865b8b4307bf0e3f72c2f32a9740538541",
+                "size": 5917952,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9F%BA%E4%BA%8E%20Go%20%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%95%E6%93%8E%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9F%BA%E4%BA%8E%20Go%20%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%95%E6%93%8E%E5%AE%9E%E8%B7%B5.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/d762b8865b8b4307bf0e3f72c2f32a9740538541",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20PPT/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9F%BA%E4%BA%8E%20Go%20%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%95%E6%93%8E%E5%AE%9E%E8%B7%B5.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20PPT/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9F%BA%E4%BA%8E%20Go%20%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%95%E6%93%8E%E5%AE%9E%E8%B7%B5.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/d762b8865b8b4307bf0e3f72c2f32a9740538541",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20PPT/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9F%BA%E4%BA%8E%20Go%20%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%95%E6%93%8E%E5%AE%9E%E8%B7%B5.pdf"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Golang 入门笔记.md",
+        "path": "Golang 入门笔记.md",
+        "sha": "71bff0ddb3cce8f4ac8cc7540ce228162e7cc0a3",
+        "size": 356,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.md?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.md",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/71bff0ddb3cce8f4ac8cc7540ce228162e7cc0a3",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.md?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/71bff0ddb3cce8f4ac8cc7540ce228162e7cc0a3",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.md"
+        }
+    },
+    {
+        "name": "Golang 入门笔记.pdf",
+        "path": "Golang 入门笔记.pdf",
+        "sha": "559a68b178cb6b2b2a54a3de049899f2629ccd11",
+        "size": 523556,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.pdf?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.pdf",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/559a68b178cb6b2b2a54a3de049899f2629ccd11",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.pdf",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.pdf?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/559a68b178cb6b2b2a54a3de049899f2629ccd11",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.pdf"
+        }
+    },
+    {
+        "name": "Golang 新手可能会踩的 50 个坑.md",
+        "path": "Golang 新手可能会踩的 50 个坑.md",
+        "sha": "4b955c338d3a4c7455a7334e7081ceb895693daf",
+        "size": 66638,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.md?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.md",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/4b955c338d3a4c7455a7334e7081ceb895693daf",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.md?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/4b955c338d3a4c7455a7334e7081ceb895693daf",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.md"
+        }
+    },
+    {
+        "name": "Golang 新手可能会踩的 50 个坑.pdf",
+        "path": "Golang 新手可能会踩的 50 个坑.pdf",
+        "sha": "212deeb5a717ec483926bba87ea6c72d7932037f",
+        "size": 874265,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.pdf?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.pdf",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/212deeb5a717ec483926bba87ea6c72d7932037f",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.pdf",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.pdf?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/212deeb5a717ec483926bba87ea6c72d7932037f",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.pdf"
+        }
+    },
+    {
+        "name": "Golang基础框架图.png",
+        "path": "Golang基础框架图.png",
+        "sha": "a5d6abbc8d1eab8fd2d414ddc1ed88019f58d5b2",
+        "size": 2118608,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6%E5%9B%BE.png?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6%E5%9B%BE.png",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/a5d6abbc8d1eab8fd2d414ddc1ed88019f58d5b2",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6%E5%9B%BE.png",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6%E5%9B%BE.png?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/a5d6abbc8d1eab8fd2d414ddc1ed88019f58d5b2",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6%E5%9B%BE.png"
+        }
+    },
+    {
+        "name": "Golang知识点归纳.png",
+        "path": "Golang知识点归纳.png",
+        "sha": "45556507827e3359b892e8a268ba5d7d6a4c3fbb",
+        "size": 2251651,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%E7%9F%A5%E8%AF%86%E7%82%B9%E5%BD%92%E7%BA%B3.png?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%E7%9F%A5%E8%AF%86%E7%82%B9%E5%BD%92%E7%BA%B3.png",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/45556507827e3359b892e8a268ba5d7d6a4c3fbb",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%E7%9F%A5%E8%AF%86%E7%82%B9%E5%BD%92%E7%BA%B3.png",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%E7%9F%A5%E8%AF%86%E7%82%B9%E5%BD%92%E7%BA%B3.png?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/45556507827e3359b892e8a268ba5d7d6a4c3fbb",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%E7%9F%A5%E8%AF%86%E7%82%B9%E5%BD%92%E7%BA%B3.png"
+        }
+    },
+    {
+        "name": "Golang精编100题.md",
+        "path": "Golang精编100题.md",
+        "sha": "2908fbe78321cf17f0cbc9f0d2ce383fe0befd2a",
+        "size": 27311,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%E7%B2%BE%E7%BC%96100%E9%A2%98.md?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%E7%B2%BE%E7%BC%96100%E9%A2%98.md",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2908fbe78321cf17f0cbc9f0d2ce383fe0befd2a",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Golang%E7%B2%BE%E7%BC%96100%E9%A2%98.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Golang%E7%B2%BE%E7%BC%96100%E9%A2%98.md?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2908fbe78321cf17f0cbc9f0d2ce383fe0befd2a",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Golang%E7%B2%BE%E7%BC%96100%E9%A2%98.md"
+        }
+    },
+    {
+        "name": "Go基础语法宝典.md",
+        "path": "Go基础语法宝典.md",
+        "sha": "2eed1e2d2462683aa698c404f75e02061102346d",
+        "size": 86283,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.md?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.md",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2eed1e2d2462683aa698c404f75e02061102346d",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.md?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2eed1e2d2462683aa698c404f75e02061102346d",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.md"
+        }
+    },
+    {
+        "name": "Go基础语法宝典.pdf",
+        "path": "Go基础语法宝典.pdf",
+        "sha": "3c70e368025a52e52998fc39bc9ee4381be2370e",
+        "size": 1044832,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.pdf?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.pdf",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/3c70e368025a52e52998fc39bc9ee4381be2370e",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.pdf",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.pdf?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/3c70e368025a52e52998fc39bc9ee4381be2370e",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.pdf"
+        }
+    },
+    {
+        "name": "Go自带库的使用说明.md",
+        "path": "Go自带库的使用说明.md",
+        "sha": "f861faa7cbae59014cf3a5040e257a633aaca46d",
+        "size": 86121,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Go%E8%87%AA%E5%B8%A6%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Go%E8%87%AA%E5%B8%A6%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/f861faa7cbae59014cf3a5040e257a633aaca46d",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Go%E8%87%AA%E5%B8%A6%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Go%E8%87%AA%E5%B8%A6%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/f861faa7cbae59014cf3a5040e257a633aaca46d",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Go%E8%87%AA%E5%B8%A6%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md"
+        }
+    },
+    {
+        "name": "README.md",
+        "path": "README.md",
+        "sha": "6903d8a5407d209f9374b29414dc28276adfb9b6",
+        "size": 57491,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/README.md?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/README.md",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/6903d8a5407d209f9374b29414dc28276adfb9b6",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/README.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/README.md?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/6903d8a5407d209f9374b29414dc28276adfb9b6",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/README.md"
+        }
+    },
+    {
+        "name": "Rob Pike谈Google Go.md",
+        "path": "Rob Pike谈Google Go.md",
+        "sha": "6d38f87d90c1ef79cd3be1ebffb039d31131fe93",
+        "size": 26908,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Rob%20Pike%E8%B0%88Google%20Go.md?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/6d38f87d90c1ef79cd3be1ebffb039d31131fe93",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Rob%20Pike%E8%B0%88Google%20Go.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Rob%20Pike%E8%B0%88Google%20Go.md?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/6d38f87d90c1ef79cd3be1ebffb039d31131fe93",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md"
+        }
+    },
+    {
+        "name": "Uber Go 语言编码规范中文版.md",
+        "path": "Uber Go 语言编码规范中文版.md",
+        "sha": "ee82a85c9abb1383f7a8fd7352f6694eb8c22ecc",
+        "size": 74858,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Uber%20Go%20%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%E4%B8%AD%E6%96%87%E7%89%88.md?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Uber%20Go%20%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%E4%B8%AD%E6%96%87%E7%89%88.md",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ee82a85c9abb1383f7a8fd7352f6694eb8c22ecc",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/Uber%20Go%20%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%E4%B8%AD%E6%96%87%E7%89%88.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/Uber%20Go%20%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%E4%B8%AD%E6%96%87%E7%89%88.md?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ee82a85c9abb1383f7a8fd7352f6694eb8c22ecc",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/Uber%20Go%20%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%E4%B8%AD%E6%96%87%E7%89%88.md"
+        }
+    },
+    {
+        "name": "hello world.go",
+        "path": "hello world.go",
+        "sha": "206a6e3ab8b976412fee93897967519c02d3179b",
+        "size": 91,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/hello%20world.go?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/hello%20world.go",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/206a6e3ab8b976412fee93897967519c02d3179b",
+        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/hello%20world.go",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/hello%20world.go?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/206a6e3ab8b976412fee93897967519c02d3179b",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/hello%20world.go"
+        }
+    },
+    {
+        "name": "paper",
+        "path": "paper",
+        "sha": "43f490c0e21521a1e0dc4836d4c292aa51d3a6b8",
+        "size": 0,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/paper",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/43f490c0e21521a1e0dc4836d4c292aa51d3a6b8",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/43f490c0e21521a1e0dc4836d4c292aa51d3a6b8",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/paper"
+        },
+        "children": [
+            {
+                "name": "1.txt",
+                "path": "paper/1.txt",
+                "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+                "size": 1,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/1.txt?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/1.txt",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/1.txt",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/1.txt?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/1.txt"
+                }
+            },
+            {
+                "name": "A User Interface for Programmers.pdf",
+                "path": "paper/A User Interface for Programmers.pdf",
+                "sha": "0a7eefb01c64ca5157e8f6b8f9942cfcdad84085",
+                "size": 149475,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/A%20User%20Interface%20for%20Programmers.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/A%20User%20Interface%20for%20Programmers.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/0a7eefb01c64ca5157e8f6b8f9942cfcdad84085",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/A%20User%20Interface%20for%20Programmers.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/A%20User%20Interface%20for%20Programmers.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/0a7eefb01c64ca5157e8f6b8f9942cfcdad84085",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/A%20User%20Interface%20for%20Programmers.pdf"
+                }
+            },
+            {
+                "name": "Understanding Real-World Concurrency Bugs in Go.pdf",
+                "path": "paper/Understanding Real-World Concurrency Bugs in Go.pdf",
+                "sha": "5205e90a84e30772ef3955ff67389066412703e2",
+                "size": 687559,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/Understanding%20Real-World%20Concurrency%20Bugs%20in%20Go.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/Understanding%20Real-World%20Concurrency%20Bugs%20in%20Go.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/5205e90a84e30772ef3955ff67389066412703e2",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/Understanding%20Real-World%20Concurrency%20Bugs%20in%20Go.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/Understanding%20Real-World%20Concurrency%20Bugs%20in%20Go.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/5205e90a84e30772ef3955ff67389066412703e2",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/Understanding%20Real-World%20Concurrency%20Bugs%20in%20Go.pdf"
+                }
+            },
+            {
+                "name": "《A Formal Model of the Kubernetes Container Framework》.pdf",
+                "path": "paper/《A Formal Model of the Kubernetes Container Framework》.pdf",
+                "sha": "c1d8a113e8ed5121d97c5232e644bb890de95781",
+                "size": 6078368,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AA%20Formal%20Model%20of%20the%20Kubernetes%20Container%20Framework%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AA%20Formal%20Model%20of%20the%20Kubernetes%20Container%20Framework%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/c1d8a113e8ed5121d97c5232e644bb890de95781",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/%E3%80%8AA%20Formal%20Model%20of%20the%20Kubernetes%20Container%20Framework%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AA%20Formal%20Model%20of%20the%20Kubernetes%20Container%20Framework%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/c1d8a113e8ed5121d97c5232e644bb890de95781",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AA%20Formal%20Model%20of%20the%20Kubernetes%20Container%20Framework%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《A Raft-based HTAP Database》.pdf",
+                "path": "paper/《A Raft-based HTAP Database》.pdf",
+                "sha": "c71e2e3ebecf56787643cedb4d67d9a4baa66d0a",
+                "size": 375379,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AA%20Raft-based%20HTAP%20Database%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AA%20Raft-based%20HTAP%20Database%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/c71e2e3ebecf56787643cedb4d67d9a4baa66d0a",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/%E3%80%8AA%20Raft-based%20HTAP%20Database%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AA%20Raft-based%20HTAP%20Database%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/c71e2e3ebecf56787643cedb4d67d9a4baa66d0a",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AA%20Raft-based%20HTAP%20Database%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Borg, Omega, and Kubernetes》.pdf",
+                "path": "paper/《Borg, Omega, and Kubernetes》.pdf",
+                "sha": "29d1255a55da98e989bedd49b62aeb1b1ea7a1c2",
+                "size": 379306,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8ABorg,%20Omega,%20and%20Kubernetes%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8ABorg,%20Omega,%20and%20Kubernetes%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/29d1255a55da98e989bedd49b62aeb1b1ea7a1c2",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/%E3%80%8ABorg%2C%20Omega%2C%20and%20Kubernetes%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8ABorg,%20Omega,%20and%20Kubernetes%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/29d1255a55da98e989bedd49b62aeb1b1ea7a1c2",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8ABorg,%20Omega,%20and%20Kubernetes%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Escape from Escape Analysis of Golang》.pdf",
+                "path": "paper/《Escape from Escape Analysis of Golang》.pdf",
+                "sha": "38bc68288c17693ca8741b04117e31cc68313bdd",
+                "size": 1121028,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AEscape%20from%20Escape%20Analysis%20of%20Golang%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AEscape%20from%20Escape%20Analysis%20of%20Golang%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/38bc68288c17693ca8741b04117e31cc68313bdd",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/%E3%80%8AEscape%20from%20Escape%20Analysis%20of%20Golang%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AEscape%20from%20Escape%20Analysis%20of%20Golang%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/38bc68288c17693ca8741b04117e31cc68313bdd",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AEscape%20from%20Escape%20Analysis%20of%20Golang%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《For Reproducible Environments and Containerized Applications》.pdf",
+                "path": "paper/《For Reproducible Environments and Containerized Applications》.pdf",
+                "sha": "ade27fe0a657898b35884a927006aba76d24c112",
+                "size": 1663761,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AFor%20Reproducible%20Environments%20and%20Containerized%20Applications%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AFor%20Reproducible%20Environments%20and%20Containerized%20Applications%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ade27fe0a657898b35884a927006aba76d24c112",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/%E3%80%8AFor%20Reproducible%20Environments%20and%20Containerized%20Applications%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AFor%20Reproducible%20Environments%20and%20Containerized%20Applications%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ade27fe0a657898b35884a927006aba76d24c112",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AFor%20Reproducible%20Environments%20and%20Containerized%20Applications%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Kubernetes as an Availability Manager for Microservice Applications》.pdf",
+                "path": "paper/《Kubernetes as an Availability Manager for Microservice Applications》.pdf",
+                "sha": "e336f94f2dc82a986cb23f8fee2b37a8b91a805d",
+                "size": 424548,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AKubernetes%20as%20an%20Availability%20Manager%20for%20Microservice%20Applications%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AKubernetes%20as%20an%20Availability%20Manager%20for%20Microservice%20Applications%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/e336f94f2dc82a986cb23f8fee2b37a8b91a805d",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/%E3%80%8AKubernetes%20as%20an%20Availability%20Manager%20for%20Microservice%20Applications%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AKubernetes%20as%20an%20Availability%20Manager%20for%20Microservice%20Applications%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/e336f94f2dc82a986cb23f8fee2b37a8b91a805d",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AKubernetes%20as%20an%20Availability%20Manager%20for%20Microservice%20Applications%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Running Cloud Native Applications on DigitalOcean Kubernetes》.pdf",
+                "path": "paper/《Running Cloud Native Applications on DigitalOcean Kubernetes》.pdf",
+                "sha": "2035051fc7c602d5f616279369ac010a69bb9f9a",
+                "size": 3288608,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8ARunning%20Cloud%20Native%20Applications%20on%20DigitalOcean%20Kubernetes%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8ARunning%20Cloud%20Native%20Applications%20on%20DigitalOcean%20Kubernetes%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2035051fc7c602d5f616279369ac010a69bb9f9a",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/%E3%80%8ARunning%20Cloud%20Native%20Applications%20on%20DigitalOcean%20Kubernetes%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8ARunning%20Cloud%20Native%20Applications%20on%20DigitalOcean%20Kubernetes%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2035051fc7c602d5f616279369ac010a69bb9f9a",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8ARunning%20Cloud%20Native%20Applications%20on%20DigitalOcean%20Kubernetes%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Using gRPC with Go》.pdf",
+                "path": "paper/《Using gRPC with Go》.pdf",
+                "sha": "a21a82ef9b39bed279032541014e441036f8abf0",
+                "size": 170574,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AUsing%20gRPC%20with%20Go%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AUsing%20gRPC%20with%20Go%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/a21a82ef9b39bed279032541014e441036f8abf0",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/paper/%E3%80%8AUsing%20gRPC%20with%20Go%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/paper/%E3%80%8AUsing%20gRPC%20with%20Go%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/a21a82ef9b39bed279032541014e441036f8abf0",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/paper/%E3%80%8AUsing%20gRPC%20with%20Go%E3%80%8B.pdf"
+                }
+            }
+        ]
+    },
+    {
+        "name": "云原生",
+        "path": "云原生",
+        "sha": "c8138c102f16726743441634935eede61ae658eb",
+        "size": 0,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E4%BA%91%E5%8E%9F%E7%94%9F",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/c8138c102f16726743441634935eede61ae658eb",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/c8138c102f16726743441634935eede61ae658eb",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E4%BA%91%E5%8E%9F%E7%94%9F"
+        },
+        "children": [
+            {
+                "name": "腾讯云",
+                "path": "云原生/腾讯云",
+                "sha": "ad88b5ea3cdd0a6341cb2dbf6e56ff1c44dff2e5",
+                "size": 0,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/ad88b5ea3cdd0a6341cb2dbf6e56ff1c44dff2e5",
+                "download_url": null,
+                "type": "dir",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/ad88b5ea3cdd0a6341cb2dbf6e56ff1c44dff2e5",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91"
+                },
+                "children": [
+                    {
+                        "name": "GO SDK使用说明.md",
+                        "path": "云原生/腾讯云/GO SDK使用说明.md",
+                        "sha": "529934df6032fa3667e6c52e245f2c946d5206db",
+                        "size": 19590,
+                        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/GO%20SDK%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md?ref=main",
+                        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/GO%20SDK%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md",
+                        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/529934df6032fa3667e6c52e245f2c946d5206db",
+                        "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/GO%20SDK%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md",
+                        "type": "file",
+                        "_links": {
+                            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/GO%20SDK%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md?ref=main",
+                            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/529934df6032fa3667e6c52e245f2c946d5206db",
+                            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/GO%20SDK%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md"
+                        }
+                    },
+                    {
+                        "name": "云点播",
+                        "path": "云原生/腾讯云/云点播",
+                        "sha": "6ab67085beb5e4bc9a10d9215d7a3da2977e8904",
+                        "size": 0,
+                        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD?ref=main",
+                        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD",
+                        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/6ab67085beb5e4bc9a10d9215d7a3da2977e8904",
+                        "download_url": null,
+                        "type": "dir",
+                        "_links": {
+                            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD?ref=main",
+                            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/6ab67085beb5e4bc9a10d9215d7a3da2977e8904",
+                            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD"
+                        },
+                        "children": [
+                            {
+                                "name": "1.txt",
+                                "path": "云原生/腾讯云/云点播/1.txt",
+                                "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+                                "size": 1,
+                                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/1.txt?ref=main",
+                                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/1.txt",
+                                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+                                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/1.txt",
+                                "type": "file",
+                                "_links": {
+                                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/1.txt?ref=main",
+                                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+                                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/1.txt"
+                                }
+                            },
+                            {
+                                "name": "视频处理相关接口.md",
+                                "path": "云原生/腾讯云/云点播/视频处理相关接口.md",
+                                "sha": "2babe69b5ebd5a59810cdda17a23494009ae4d7e",
+                                "size": 6901,
+                                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3.md?ref=main",
+                                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3.md",
+                                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2babe69b5ebd5a59810cdda17a23494009ae4d7e",
+                                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3.md",
+                                "type": "file",
+                                "_links": {
+                                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3.md?ref=main",
+                                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2babe69b5ebd5a59810cdda17a23494009ae4d7e",
+                                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E4%BA%91%E5%8E%9F%E7%94%9F/%E8%85%BE%E8%AE%AF%E4%BA%91/%E4%BA%91%E7%82%B9%E6%92%AD/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E7%9B%B8%E5%85%B3%E6%8E%A5%E5%8F%A3.md"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "搭建Go语言开发环境",
+        "path": "搭建Go语言开发环境",
+        "sha": "bc44bc6ac2c1cd410178ed760081168754c36b89",
+        "size": 0,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/bc44bc6ac2c1cd410178ed760081168754c36b89",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/bc44bc6ac2c1cd410178ed760081168754c36b89",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83"
+        },
+        "children": [
+            {
+                "name": "从零开始搭建Go语言开发环境.md",
+                "path": "搭建Go语言开发环境/从零开始搭建Go语言开发环境.md",
+                "sha": "e32a2febcd1cb58599c17d25e204e2c656614e3c",
+                "size": 10091,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/e32a2febcd1cb58599c17d25e204e2c656614e3c",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/e32a2febcd1cb58599c17d25e204e2c656614e3c",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md"
+                }
+            }
+        ]
+    },
+    {
+        "name": "文章",
+        "path": "文章",
+        "sha": "84c7f79f56f6703277959c94ae6f1a061aea9c0d",
+        "size": 0,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E6%96%87%E7%AB%A0",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/84c7f79f56f6703277959c94ae6f1a061aea9c0d",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/84c7f79f56f6703277959c94ae6f1a061aea9c0d",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E6%96%87%E7%AB%A0"
+        },
+        "children": [
+            {
+                "name": "GO语言之垃圾回收机制.md",
+                "path": "文章/GO语言之垃圾回收机制.md",
+                "sha": "05be0034a35ed303087944b6909c661d9f777fbf",
+                "size": 12761,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/GO%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/GO%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/05be0034a35ed303087944b6909c661d9f777fbf",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/GO%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/GO%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/05be0034a35ed303087944b6909c661d9f777fbf",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/GO%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md"
+                }
+            },
+            {
+                "name": "Go 程序是怎样跑起来的.md",
+                "path": "文章/Go 程序是怎样跑起来的.md",
+                "sha": "8b621fc83ba0bb75593f2d58d8d19b2ce63e97b3",
+                "size": 30937,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Go%20%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%20%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/8b621fc83ba0bb75593f2d58d8d19b2ce63e97b3",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/Go%20%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Go%20%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/8b621fc83ba0bb75593f2d58d8d19b2ce63e97b3",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%20%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.md"
+                }
+            },
+            {
+                "name": "Golang Heap 源码剖析.md",
+                "path": "文章/Golang Heap 源码剖析.md",
+                "sha": "2752c38bb77124548bb25e23b1d7bbe64595ff3b",
+                "size": 9544,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Golang%20Heap%20%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%20Heap%20%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2752c38bb77124548bb25e23b1d7bbe64595ff3b",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/Golang%20Heap%20%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Golang%20Heap%20%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2752c38bb77124548bb25e23b1d7bbe64595ff3b",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%20Heap%20%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.md"
+                }
+            },
+            {
+                "name": "Golang之sync.Pool对象池对象重用机制总结.md",
+                "path": "文章/Golang之sync.Pool对象池对象重用机制总结.md",
+                "sha": "1f978b9ded8fa5ed5b3787d004fcb1ba79428666",
+                "size": 2026,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Golang%E4%B9%8Bsync.Pool%E5%AF%B9%E8%B1%A1%E6%B1%A0%E5%AF%B9%E8%B1%A1%E9%87%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E4%B9%8Bsync.Pool%E5%AF%B9%E8%B1%A1%E6%B1%A0%E5%AF%B9%E8%B1%A1%E9%87%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/1f978b9ded8fa5ed5b3787d004fcb1ba79428666",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/Golang%E4%B9%8Bsync.Pool%E5%AF%B9%E8%B1%A1%E6%B1%A0%E5%AF%B9%E8%B1%A1%E9%87%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Golang%E4%B9%8Bsync.Pool%E5%AF%B9%E8%B1%A1%E6%B1%A0%E5%AF%B9%E8%B1%A1%E9%87%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/1f978b9ded8fa5ed5b3787d004fcb1ba79428666",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E4%B9%8Bsync.Pool%E5%AF%B9%E8%B1%A1%E6%B1%A0%E5%AF%B9%E8%B1%A1%E9%87%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md"
+                }
+            },
+            {
+                "name": "Golang的GC和内存逃逸.md",
+                "path": "文章/Golang的GC和内存逃逸.md",
+                "sha": "aa7a2dd68e64cae4df7695b3b5daa28c6f9f12cf",
+                "size": 10233,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Golang%E7%9A%84GC%E5%92%8C%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E7%9A%84GC%E5%92%8C%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/aa7a2dd68e64cae4df7695b3b5daa28c6f9f12cf",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/Golang%E7%9A%84GC%E5%92%8C%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Golang%E7%9A%84GC%E5%92%8C%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/aa7a2dd68e64cae4df7695b3b5daa28c6f9f12cf",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E7%9A%84GC%E5%92%8C%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8.md"
+                }
+            },
+            {
+                "name": "Go内存分配那些事，就这么简单！.md",
+                "path": "文章/Go内存分配那些事，就这么简单！.md",
+                "sha": "809d883edc5c3605f2f7cc03c760c5ddcbcf069c",
+                "size": 28568,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/809d883edc5c3605f2f7cc03c760c5ddcbcf069c",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/809d883edc5c3605f2f7cc03c760c5ddcbcf069c",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md"
+                }
+            },
+            {
+                "name": "Go常用命令.md",
+                "path": "文章/Go常用命令.md",
+                "sha": "58107e3a57c46697e14489c76c0c1a100bb21844",
+                "size": 13835,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Go%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/58107e3a57c46697e14489c76c0c1a100bb21844",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/Go%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Go%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/58107e3a57c46697e14489c76c0c1a100bb21844",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md"
+                }
+            },
+            {
+                "name": "Go语言TCP Socket编程.md",
+                "path": "文章/Go语言TCP Socket编程.md",
+                "sha": "4eaf8fd93c1902f19358dc6dad50cffed85ce593",
+                "size": 31643,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80TCP%20Socket%E7%BC%96%E7%A8%8B.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80TCP%20Socket%E7%BC%96%E7%A8%8B.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/4eaf8fd93c1902f19358dc6dad50cffed85ce593",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80TCP%20Socket%E7%BC%96%E7%A8%8B.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80TCP%20Socket%E7%BC%96%E7%A8%8B.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/4eaf8fd93c1902f19358dc6dad50cffed85ce593",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80TCP%20Socket%E7%BC%96%E7%A8%8B.md"
+                }
+            },
+            {
+                "name": "Go语言之goroutine协程详解.md",
+                "path": "文章/Go语言之goroutine协程详解.md",
+                "sha": "004ff9bbc960519e2387d009c39e727d00aed574",
+                "size": 5412,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80%E4%B9%8Bgoroutine%E5%8D%8F%E7%A8%8B%E8%AF%A6%E8%A7%A3.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80%E4%B9%8Bgoroutine%E5%8D%8F%E7%A8%8B%E8%AF%A6%E8%A7%A3.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/004ff9bbc960519e2387d009c39e727d00aed574",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80%E4%B9%8Bgoroutine%E5%8D%8F%E7%A8%8B%E8%AF%A6%E8%A7%A3.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80%E4%B9%8Bgoroutine%E5%8D%8F%E7%A8%8B%E8%AF%A6%E8%A7%A3.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/004ff9bbc960519e2387d009c39e727d00aed574",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80%E4%B9%8Bgoroutine%E5%8D%8F%E7%A8%8B%E8%AF%A6%E8%A7%A3.md"
+                }
+            },
+            {
+                "name": "Protobuf入门.md",
+                "path": "文章/Protobuf入门.md",
+                "sha": "a10bb0300561693f01c18bf25c058a19b30fd9d5",
+                "size": 4264,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Protobuf%E5%85%A5%E9%97%A8.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Protobuf%E5%85%A5%E9%97%A8.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/a10bb0300561693f01c18bf25c058a19b30fd9d5",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/Protobuf%E5%85%A5%E9%97%A8.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/Protobuf%E5%85%A5%E9%97%A8.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/a10bb0300561693f01c18bf25c058a19b30fd9d5",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Protobuf%E5%85%A5%E9%97%A8.md"
+                }
+            },
+            {
+                "name": "etcd的使用.md",
+                "path": "文章/etcd的使用.md",
+                "sha": "b63e0531ef9759ba61ccd12b0e3d2dc448d32d4f",
+                "size": 25825,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/etcd%E7%9A%84%E4%BD%BF%E7%94%A8.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/etcd%E7%9A%84%E4%BD%BF%E7%94%A8.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/b63e0531ef9759ba61ccd12b0e3d2dc448d32d4f",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/etcd%E7%9A%84%E4%BD%BF%E7%94%A8.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/etcd%E7%9A%84%E4%BD%BF%E7%94%A8.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/b63e0531ef9759ba61ccd12b0e3d2dc448d32d4f",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/etcd%E7%9A%84%E4%BD%BF%E7%94%A8.md"
+                }
+            },
+            {
+                "name": "go内存管理一：系统内存管理.md",
+                "path": "文章/go内存管理一：系统内存管理.md",
+                "sha": "c5e2d3ebdcb420ecc3f2a075684561bbbcdffb0e",
+                "size": 12152,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%80%EF%BC%9A%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%80%EF%BC%9A%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/c5e2d3ebdcb420ecc3f2a075684561bbbcdffb0e",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%80%EF%BC%9A%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%80%EF%BC%9A%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/c5e2d3ebdcb420ecc3f2a075684561bbbcdffb0e",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%80%EF%BC%9A%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md"
+                }
+            },
+            {
+                "name": "go内存管理二：go内存管理.md",
+                "path": "文章/go内存管理二：go内存管理.md",
+                "sha": "a0f36a765e4441780a60de383d96b0b0985d68fd",
+                "size": 18431,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%BA%8C%EF%BC%9Ago%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%BA%8C%EF%BC%9Ago%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/a0f36a765e4441780a60de383d96b0b0985d68fd",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%BA%8C%EF%BC%9Ago%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%BA%8C%EF%BC%9Ago%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/a0f36a765e4441780a60de383d96b0b0985d68fd",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/go%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%BA%8C%EF%BC%9Ago%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md"
+                }
+            },
+            {
+                "name": "从源码角度看 Golang 的调度.md",
+                "path": "文章/从源码角度看 Golang 的调度.md",
+                "sha": "b2d40ba764d4a25c9c4f7cc2f69aeb753a47ba60",
+                "size": 59859,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E7%9C%8B%20Golang%20%E7%9A%84%E8%B0%83%E5%BA%A6.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E7%9C%8B%20Golang%20%E7%9A%84%E8%B0%83%E5%BA%A6.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/b2d40ba764d4a25c9c4f7cc2f69aeb753a47ba60",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E7%9C%8B%20Golang%20%E7%9A%84%E8%B0%83%E5%BA%A6.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E7%9C%8B%20Golang%20%E7%9A%84%E8%B0%83%E5%BA%A6.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/b2d40ba764d4a25c9c4f7cc2f69aeb753a47ba60",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E7%9C%8B%20Golang%20%E7%9A%84%E8%B0%83%E5%BA%A6.md"
+                }
+            },
+            {
+                "name": "图解Go内存分配器.md",
+                "path": "文章/图解Go内存分配器.md",
+                "sha": "cb720df0ec4156bef32835e76e638fa42ba3b9c9",
+                "size": 16127,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/cb720df0ec4156bef32835e76e638fa42ba3b9c9",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/cb720df0ec4156bef32835e76e638fa42ba3b9c9",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8.md"
+                }
+            },
+            {
+                "name": "当红开发语言Go，真的是未来的技术主流吗？.md",
+                "path": "文章/当红开发语言Go，真的是未来的技术主流吗？.md",
+                "sha": "3ca755e2d595a1f66a134ab1a249373c8e85d00f",
+                "size": 21956,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/%E5%BD%93%E7%BA%A2%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80Go%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%BD%93%E7%BA%A2%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80Go%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/3ca755e2d595a1f66a134ab1a249373c8e85d00f",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/%E5%BD%93%E7%BA%A2%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80Go%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/%E5%BD%93%E7%BA%A2%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80Go%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/3ca755e2d595a1f66a134ab1a249373c8e85d00f",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%BD%93%E7%BA%A2%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80Go%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F.md"
+                }
+            },
+            {
+                "name": "深入理解 Go Map.md",
+                "path": "文章/深入理解 Go Map.md",
+                "sha": "7011b6796de4042540f4f3d5f5509f337b3454f6",
+                "size": 4016,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Go%20Map.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Go%20Map.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/7011b6796de4042540f4f3d5f5509f337b3454f6",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Go%20Map.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Go%20Map.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/7011b6796de4042540f4f3d5f5509f337b3454f6",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Go%20Map.md"
+                }
+            },
+            {
+                "name": "用go实现常见的数据结构.md",
+                "path": "文章/用go实现常见的数据结构.md",
+                "sha": "9ed378a140d8a4a3fbdf6152098868283f8c8f11",
+                "size": 10639,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/%E7%94%A8go%E5%AE%9E%E7%8E%B0%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E7%94%A8go%E5%AE%9E%E7%8E%B0%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/9ed378a140d8a4a3fbdf6152098868283f8c8f11",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%96%87%E7%AB%A0/%E7%94%A8go%E5%AE%9E%E7%8E%B0%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%96%87%E7%AB%A0/%E7%94%A8go%E5%AE%9E%E7%8E%B0%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/9ed378a140d8a4a3fbdf6152098868283f8c8f11",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E7%94%A8go%E5%AE%9E%E7%8E%B0%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md"
+                }
+            }
+        ]
+    },
+    {
+        "name": "源码",
+        "path": "源码",
+        "sha": "a24cddabf9531ac42fe11ea1faf2995afcfd135a",
+        "size": 0,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%BA%90%E7%A0%81?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E6%BA%90%E7%A0%81",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/a24cddabf9531ac42fe11ea1faf2995afcfd135a",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%BA%90%E7%A0%81?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/a24cddabf9531ac42fe11ea1faf2995afcfd135a",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E6%BA%90%E7%A0%81"
+        },
+        "children": [
+            {
+                "name": "go1.16.7.src.tar.gz",
+                "path": "源码/go1.16.7.src.tar.gz",
+                "sha": "bcb7051aa2c2d975cb3dd156f2aa76db6308d815",
+                "size": 20922206,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%BA%90%E7%A0%81/go1.16.7.src.tar.gz?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%BA%90%E7%A0%81/go1.16.7.src.tar.gz",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/bcb7051aa2c2d975cb3dd156f2aa76db6308d815",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E6%BA%90%E7%A0%81/go1.16.7.src.tar.gz",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E6%BA%90%E7%A0%81/go1.16.7.src.tar.gz?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/bcb7051aa2c2d975cb3dd156f2aa76db6308d815",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E6%BA%90%E7%A0%81/go1.16.7.src.tar.gz"
+                }
+            }
+        ]
+    },
+    {
+        "name": "电子书籍",
+        "path": "电子书籍",
+        "sha": "ca9bc3b8ff5fc4543f93393c43a2bca6478d2cdc",
+        "size": 0,
+        "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D?ref=main",
+        "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D",
+        "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/ca9bc3b8ff5fc4543f93393c43a2bca6478d2cdc",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D?ref=main",
+            "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/trees/ca9bc3b8ff5fc4543f93393c43a2bca6478d2cdc",
+            "html": "https://github.com/FORKOPEN/Introduction-to-Golang/tree/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D"
+        },
+        "children": [
+            {
+                "name": "1.txt",
+                "path": "电子书籍/1.txt",
+                "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+                "size": 1,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/1.txt?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/1.txt",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/1.txt",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/1.txt?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/1.txt"
+                }
+            },
+            {
+                "name": "《GO专家编程》.pdf",
+                "path": "电子书籍/《GO专家编程》.pdf",
+                "sha": "974a72212e8972550da9efd72ed6660496100137",
+                "size": 6406073,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/974a72212e8972550da9efd72ed6660496100137",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/974a72212e8972550da9efd72ed6660496100137",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Go Web 编程》.epub",
+                "path": "电子书籍/《Go Web 编程》.epub",
+                "sha": "f395949213d40f977fb4f1a31c96fe774452d01d",
+                "size": 14701053,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20Web%20%E7%BC%96%E7%A8%8B%E3%80%8B.epub?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20Web%20%E7%BC%96%E7%A8%8B%E3%80%8B.epub",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/f395949213d40f977fb4f1a31c96fe774452d01d",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20Web%20%E7%BC%96%E7%A8%8B%E3%80%8B.epub",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20Web%20%E7%BC%96%E7%A8%8B%E3%80%8B.epub?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/f395949213d40f977fb4f1a31c96fe774452d01d",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20Web%20%E7%BC%96%E7%A8%8B%E3%80%8B.epub"
+                }
+            },
+            {
+                "name": "《Go 入门指南》.pdf",
+                "path": "电子书籍/《Go 入门指南》.pdf",
+                "sha": "ecb85cfbf76faf66c88e0d8431ada2b906d04ad1",
+                "size": 4659414,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ecb85cfbf76faf66c88e0d8431ada2b906d04ad1",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ecb85cfbf76faf66c88e0d8431ada2b906d04ad1",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Go 语言圣经》.pdf",
+                "path": "电子书籍/《Go 语言圣经》.pdf",
+                "sha": "024c89d2096fc7fa65996459e6bb3183ce9bc1ea",
+                "size": 3881754,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/024c89d2096fc7fa65996459e6bb3183ce9bc1ea",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/024c89d2096fc7fa65996459e6bb3183ce9bc1ea",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Go语法树入门》.pdf",
+                "path": "电子书籍/《Go语法树入门》.pdf",
+                "sha": "918cc02c646a31682f536eeb8ce3804cb344d14c",
+                "size": 1562923,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E6%B3%95%E6%A0%91%E5%85%A5%E9%97%A8%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E6%B3%95%E6%A0%91%E5%85%A5%E9%97%A8%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/918cc02c646a31682f536eeb8ce3804cb344d14c",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E6%B3%95%E6%A0%91%E5%85%A5%E9%97%A8%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E6%B3%95%E6%A0%91%E5%85%A5%E9%97%A8%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/918cc02c646a31682f536eeb8ce3804cb344d14c",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E6%B3%95%E6%A0%91%E5%85%A5%E9%97%A8%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Go语言101》.pdf",
+                "path": "电子书籍/《Go语言101》.pdf",
+                "sha": "768def098171403f6926cf8d06a05176724df937",
+                "size": 3157510,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80101%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80101%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/768def098171403f6926cf8d06a05176724df937",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80101%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80101%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/768def098171403f6926cf8d06a05176724df937",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80101%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Go语言学习笔记》.pdf",
+                "path": "电子书籍/《Go语言学习笔记》.pdf",
+                "sha": "609553735725f20342a8740271110c0b6c566dc0",
+                "size": 1365184,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/609553735725f20342a8740271110c0b6c566dc0",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/609553735725f20342a8740271110c0b6c566dc0",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8B.pdf"
+                }
+            },
+            {
+                "name": "《Go语言实战》.epub",
+                "path": "电子书籍/《Go语言实战》.epub",
+                "sha": "ae2f63a658dd7840cb602ed597070add3ec86322",
+                "size": 3300782,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.epub?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.epub",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ae2f63a658dd7840cb602ed597070add3ec86322",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.epub",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.epub?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ae2f63a658dd7840cb602ed597070add3ec86322",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.epub"
+                }
+            },
+            {
+                "name": "《Go语言编程》高清完整版电子书.pdf",
+                "path": "电子书籍/《Go语言编程》高清完整版电子书.pdf",
+                "sha": "ac2d72a62cc3e88d1d0ae48b09d102e0c47b507a",
+                "size": 9759196,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ac2d72a62cc3e88d1d0ae48b09d102e0c47b507a",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/ac2d72a62cc3e88d1d0ae48b09d102e0c47b507a",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf"
+                }
+            },
+            {
+                "name": "《Go语言高级编程》.pdf",
+                "path": "电子书籍/《Go语言高级编程》.pdf",
+                "sha": "2622d3400c232fb2df867d5d9ee65678b769a917",
+                "size": 6402885,
+                "url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B.pdf?ref=main",
+                "html_url": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B.pdf",
+                "git_url": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2622d3400c232fb2df867d5d9ee65678b769a917",
+                "download_url": "https://raw.githubusercontent.com/FORKOPEN/Introduction-to-Golang/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B.pdf",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/contents/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B.pdf?ref=main",
+                    "git": "https://api.github.com/repos/FORKOPEN/Introduction-to-Golang/git/blobs/2622d3400c232fb2df867d5d9ee65678b769a917",
+                    "html": "https://github.com/FORKOPEN/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B.pdf"
+                }
+            }
+        ]
+    }
+]

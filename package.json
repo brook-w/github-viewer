@@ -1,0 +1,62 @@
+{
+  "name": "github-viewer",
+  "private": false,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "lint": "eslint --ext .js,.vue,.ts src",
+    "lint:fix": "npx eslint ./src /**/*.vue --fix",
+    "stylelint": "npx stylelint --aei .vue src",
+    "stylint:fix": "npx stylelint ./src/**/*.vue --fix"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "echarts": "^5.3.3",
+    "mavon-editor": "3.0.0-beta",
+    "naive-ui": "2.33.2",
+    "pinia": "^2.0.22",
+    "postcss-html": "^1.5.0",
+    "sass": "^1.54.9",
+    "sql.js": "^1.8.0",
+    "sql.js-httpvfs": "^0.8.12",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.16",
+    "@types/sql.js": "^1.4.4",
+    "@typescript-eslint/eslint-plugin": "^5.36.2",
+    "@typescript-eslint/parser": "^5.36.2",
+    "@vitejs/plugin-vue": "^3.1.0",
+    "@volar-plugins/vetur": "^0.1.0",
+    "eslint": "^8.23.0",
+    "eslint-plugin-vue": "^9.4.0",
+    "husky": "4.3.8",
+    "lint-staged": "^13.0.3",
+    "stylelint": "^14.11.0",
+    "stylelint-config-standard-scss": "^5.0.0",
+    "stylelint-scss": "^4.3.0",
+    "typescript": "^4.6.4",
+    "unplugin-auto-import": "^0.11.4",
+    "unplugin-vue-components": "^0.22.9",
+    "vite": "^3.1.0",
+    "vite-plugin-wasm": "^3.1.0",
+    "vue-tsc": "^0.40.4"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{ts,vue}": [
+      "eslint --fix"
+    ],
+    "*.vue": [
+      "stylelint --fix  --custom-syntax postcss-html"
+    ]
+  }
+}
