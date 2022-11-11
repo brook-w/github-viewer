@@ -1,4 +1,5 @@
 import axios from "axios";
+
 export const fileHandlerMap = new Map()
 
 
@@ -29,6 +30,11 @@ const jsonHandler = async (url, cb, ext) => {
     })
 }
 
+const downloadHandler = async (url, cb, ext, raw) => {
+    const downloadSpeedUrl = 'https://ghproxy.com/'
+    const downloadUrl = downloadSpeedUrl + raw.download_url
+    window.open(downloadUrl, "_blank")
+}
 
 
 fileHandlerMap.set("md", mdHandler)
@@ -50,3 +56,11 @@ fileHandlerMap.set("cnf", codeHandler)
 fileHandlerMap.set("py", codeHandler)
 fileHandlerMap.set("sh", codeHandler)
 fileHandlerMap.set("json", jsonHandler)
+
+
+fileHandlerMap.set("tar", downloadHandler)
+fileHandlerMap.set("gz", downloadHandler)
+fileHandlerMap.set("zip", downloadHandler)
+fileHandlerMap.set("7z", downloadHandler)
+
+

@@ -22,7 +22,6 @@
                 />
             </n-layout-content>
         </n-layout-sider>
-
         <n-layout class="content-layout">
             <n-layout-content class="content">
                 <MdEditorProvider :md="md"/>
@@ -33,16 +32,16 @@
 
 <script lang="ts" setup>
 
-import {ref} from "vue";
-import {SelectOption, TreeOption} from 'naive-ui'
+import {ref, h} from "vue";
+import {SelectOption, TreeOption, NIcon, NButton} from 'naive-ui'
 import * as axios from "@/utils/axios";
 import {fileHandlerMap} from "./fileProcess.js"
 import MdEditorProvider from '@/components/MdEditorProvider.vue'
-
+import {getIconForFile, getIconForFolder, getIconForOpenFolder} from 'vscode-icons-js';
 import {useLoadingBar} from 'naive-ui'
 
-const loadingBar = useLoadingBar()
 
+const loadingBar = useLoadingBar()
 const repoName = ref("FORKOPEN/Introduction-to-Golang");
 let treeData = ref([]);
 const repoDefaultBranch = ref("master");
@@ -60,14 +59,19 @@ const repoList = [
     }
 ]
 
+
 const repoSelectValue = ref('/FORKOPEN/Introduction-to-Golang.json')
 
 const treeNodeProps = ({option}: { option: TreeOption | any }) => {
     return {
-        onClick() {
+        async onClick() {
             selectTreeInfo.value = option
             const treeInfo = option
             if (treeInfo.type === 'dir') {
+                console.log(getIconForOpenFolder("test"))
+                for (const tree of treeInfo.children) {
+                    setTreeIcon(tree)
+                }
                 return
             }
 
@@ -76,12 +80,16 @@ const treeNodeProps = ({option}: { option: TreeOption | any }) => {
             const index = treeInfo.html_url.lastIndexOf(".");
             let ext = treeInfo.html_url.substring(index + 1);
             // https://github.com/hellolinks/notebooks/blob/master/Language/MyFirst.md
+
             console.log("dynamic_url=", `https://github.com/${repoName.value}/blob/${repoDefaultBranch.value}`)
             console.log("raw_url=", treeInfo.html_url)
+
             treeInfo.html_url = treeInfo.html_url.replace(
                 `https://github.com/${repoName.value}/blob/${repoDefaultBranch.value}`,
                 speedUrl.value + repoName.value + "@" + repoDefaultBranch.value
             );
+
+            console.log("finish_url=", treeInfo.html_url)
 
             if (
                 treeInfo.html_url.substring(treeInfo.html_url.length - 10) ===
@@ -89,15 +97,20 @@ const treeNodeProps = ({option}: { option: TreeOption | any }) => {
             ) {
                 ext = "go";
             }
-
-            fileHandlerMap.get(ext)?.(
+            const fileHandler = fileHandlerMap.get(ext)
+            await fileHandler(
                 treeInfo.html_url,
                 res => {
                     md.value = res;
                     loadingBar.finish();
                 },
-                ext
+                ext,
+                treeInfo
             );
+            console.log("wcoa")
+            setTimeout(() => {
+                loadingBar.finish()
+            }, 1000)
         },
     }
 }
@@ -107,7 +120,7 @@ const repoSelectChange = async (value: string, option: SelectOption) => {
 }
 
 const recursiveFilter = (tree, keys) => {
-    let data = tree.filter((item) => item.sha == keys);
+    let data = tree.filter((item) => item.keys == keys);
     if (data.length != 0) {
         selectTreeInfo.value = data[0];
     } else {
@@ -130,9 +143,32 @@ const getRepoContent = async () => {
     const repoInfo = await axios.get(`/${repoSelectValue.value.split("/")[1]}/repoInfo.json`)
     repoDefaultBranch.value = repoInfo.default_branch
     repoName.value = repoInfo.full_name
-    treeData.value = await axios.get(repoSelectValue.value)
+    const cacheTreeData = await axios.get(repoSelectValue.value)
+    for (const treeInfo of cacheTreeData) {
+        setTreeIcon(treeInfo)
+        // treeInfo.suffix = () =>
+        //     h(
+        //         NButton,
+        //         {text: true, type: 'primary'},
+        //         {default: () => 'Suffix'}
+        //     )
+    }
+    console.log(cacheTreeData)
+    treeData.value = cacheTreeData
 
     console.log("repoName", repoName.value)
+}
+
+
+const setTreeIcon = (treeInfo) => {
+    if (treeInfo.type === 'dir') {
+        treeInfo.prefix = () => h(NIcon, {color: ""}, {default: () => h('img', {src: 'icons/default_folder.svg'})})
+        return
+    }
+    treeInfo.prefix = () => h(NIcon, {
+        size: "20",
+        color: ""
+    }, {default: () => h('img', {src: `icons/${getIconForFile(treeInfo.html_url)}`})})
 }
 
 const recursion = async (dataList) => {
